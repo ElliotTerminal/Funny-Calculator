@@ -1,4 +1,4 @@
-<h1 align="center">Funny Calculator</h1>
+<h1 align="center">Funny Calculator 🧮</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Author-ElliotTerminal-green?style=flat-square">
